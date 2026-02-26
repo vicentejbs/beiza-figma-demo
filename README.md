@@ -1,3 +1,3 @@
 # beiza-figma-demo
 
-https://app.diagrams.net/#G18ppW8toIe2YG7AshoIzyJCuS8N07HdeU#%7B%22pageId%22%3A%22dFJ4SN5G_9eXKO1aYNOq%22%7D
+<img width="4764" height="2640" alt="image" src="https://github.com/user-attachments/assets/164570fc-c4cc-4d2f-a589-39dfff51dd55" />
