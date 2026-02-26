@@ -1,3 +1,2 @@
 # beiza-figma-demo
-
-<img width="4764" height="2640" alt="image" src="https://github.com/user-attachments/assets/164570fc-c4cc-4d2f-a589-39dfff51dd55" />
+<img width="6512" height="3596" alt="image" src="https://github.com/user-attachments/assets/42d3ea06-c955-4cd8-b08c-afe93cef09ef" />
